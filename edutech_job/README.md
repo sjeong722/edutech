@@ -106,3 +106,18 @@ npm start
 - [ ] Gemini API 할당량 확보 후 자소서 전략 기능 재활성화
 - [ ] `node-cron`을 이용한 정기 스크래핑 스케줄링 (매일 오전 8시)
 - [ ] 공고 데이터 DB 저장 (SQLite or MongoDB)
+
+---
+
+## 라이선스 및 저작권
+
+- **Source Code**: Licensed under the MIT License.
+- **Other Artifacts**: © 2026 소정. All rights reserved.
+
+Other Artifacts에는 다음이 포함됩니다.
+
+- 대시보드 UI 디자인 및 화면 레이아웃 기획
+- `docs/` 폴더의 AI 프롬프트 정의서 및 기획 문서
+- README에 포함된 서비스 기획 내용 및 설명 문구
+
+위 비코드 자료의 복제, 수정, 배포, 상업적 이용은 저작권자의 별도 허락이 필요합니다.

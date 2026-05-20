@@ -206,6 +206,23 @@ shallow depth of field background
 
 ---
 
+## 라이선스 및 저작권
+
+- **Source Code**: Licensed under the MIT License.
+- **Other Artifacts**: © 2026 소정. All rights reserved.
+
+Other Artifacts에는 다음이 포함됩니다.
+
+- "취준하는 수달이" 캐릭터 IP 및 세계관 기획
+- n8n 워크플로우 파일 (`otter_shorts_workflow*.json`)
+- 캐릭터 이미지 프롬프트 설계 및 고정 묘사 문안
+- `Job Seeker Empathy IP Strategy.pdf` 및 그 내용
+- README에 포함된 워크플로우 설계 내용 및 기획 문서
+
+위 비코드 자료의 복제, 수정, 배포, 상업적 이용은 저작권자의 별도 허락이 필요합니다.
+
+---
+
 ## 💰 운영 비용 (월 예상, 영상 30편 기준)
 
 | 항목 | 비용 |
